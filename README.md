@@ -12,7 +12,7 @@ My Back End skills include: Node.js, OOP, Express.js, user authentication, SQL, 
 
 Connect with me on LinkedIn! :point_down:
 
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/lauren-lattanzi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
