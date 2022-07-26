@@ -10,7 +10,7 @@ My Front End skills include: HTML, CSS, JavaScript/jQuery, RESTful APIs, REACT, 
 
 My Back End skills include: Node.js, OOP, Express.js, user authentication, SQL, Sequelize ORM, MVC paradigm, NoSQL, Apollo-GraphQL, MongoDB, and Mongoose ODM
 
-Connect with me on LinkedIn with the link below! :point_down:
+Connect with me on LinkedIn! :point_down:
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lauren-lattanzi/">
